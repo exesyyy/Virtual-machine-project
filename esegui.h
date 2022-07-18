@@ -1,0 +1,1 @@
+void esegui(int* prog, unsigned int progsize);

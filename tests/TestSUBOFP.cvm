@@ -1,0 +1,12 @@
+;test sull'overflow della sottrazione con primo numero negativo e secondo positivo
+10
+12
+0
+-1500000000
+12
+1
+1500000000
+81
+0
+1
+2

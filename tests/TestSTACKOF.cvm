@@ -1,0 +1,19 @@
+;test sullo stack overflow, riempio lo stack con push successive fino al limite massimo
+16  
+12      ;MOV R0 1
+0
+1
+12      ;MOV R1 0
+1
+0
+
+80      ;ADD R0 R1 R1
+0
+1
+1
+1       ;DISPLAY R1
+1
+10      ;PUSH R1
+1
+22      ;JMP 6
+6
